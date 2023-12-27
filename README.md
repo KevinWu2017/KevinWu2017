@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on acceleration for AI system.
+I‘m currently pursuing a Ph.D degree at SJTU.

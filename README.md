@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm currently working on acceleration for AI system.
 
-I‘m currently pursuing a Ph.D degree at SJTU.
+I‘m currently pursuing a Ph.D degree at Shanghai Jiao Tong University.

@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on High Performance Computing and system acceleration for AI.
+I'm currently working on High Performance Computing and System Acceleration for AI.
 
 I‘m currently pursuing a Ph.D degree at Shanghai Jiao Tong University.
